@@ -4,7 +4,7 @@
 
 **A collection of awesome lists for hackers, pentesters & security researchers.**
 
-
+Video material: https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh
 
 ### Awesome Repositories
 
